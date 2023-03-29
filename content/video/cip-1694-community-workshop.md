@@ -19,7 +19,7 @@ The event was just the kickoff to a broader program of community governance even
 
 Find out more here:
 
-[https://forum.cardano.org/t/cip-1694-...](https://forum.cardano.org/t/cip-1694-...)
+[https://forum.cardano.org/t/cip-1694-...](https://forum.cardano.org/t/cip-1694-in-a-nutshell/115617)
 
 Thanks to all the attendees:
 
